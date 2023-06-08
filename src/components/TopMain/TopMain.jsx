@@ -98,14 +98,14 @@ const TopMainWrapper= styled.div`
         .top-main-img{
           scale:1.2;
           opacity:0.8;
-          transform:translateX(-50%);
+          transform:translateX(-35%);
             
         }
         }
        
         .top-main-left{
             z-index:1000;
-            transform:translateX(40%);
+            transform:translateX(55%);
         }
     }
     @media (min-width: 577px) and (max-width: 768px)
